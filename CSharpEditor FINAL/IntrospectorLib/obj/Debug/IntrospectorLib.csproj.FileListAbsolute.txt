@@ -1,0 +1,15 @@
+C:\Users\T\Desktop\CSharpEditor 12\IntrospectorLib\bin\Debug\IntrospectorLib.dll
+C:\Users\T\Desktop\CSharpEditor 12\IntrospectorLib\bin\Debug\IntrospectorLib.pdb
+C:\Users\T\Desktop\CSharpEditor 12\IntrospectorLib\obj\Debug\IntrospectorLib.dll
+C:\Users\T\Desktop\CSharpEditor 12\IntrospectorLib\obj\Debug\IntrospectorLib.pdb
+C:\Users\T\Desktop\CSharpEditor 12\IntrospectorLib\obj\Debug\IntrospectorLib.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\FinalAve\CSharpEditor 12\IntrospectorLib\obj\Debug\IntrospectorLib.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor 12\IntrospectorLib\bin\Debug\IntrospectorLib.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor 12\IntrospectorLib\bin\Debug\IntrospectorLib.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor 12\IntrospectorLib\obj\Debug\IntrospectorLib.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor 12\IntrospectorLib\obj\Debug\IntrospectorLib.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\FinalAve\CSharpEditor FINAL\IntrospectorLib\bin\Debug\IntrospectorLib.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor FINAL\IntrospectorLib\bin\Debug\IntrospectorLib.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor FINAL\IntrospectorLib\obj\Debug\IntrospectorLib.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\FinalAve\CSharpEditor FINAL\IntrospectorLib\obj\Debug\IntrospectorLib.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor FINAL\IntrospectorLib\obj\Debug\IntrospectorLib.pdb

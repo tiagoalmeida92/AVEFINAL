@@ -1,0 +1,10 @@
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\CSharpEditorTest.exe.config
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\CSharpEditorTest.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\CSharpEditorTest.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\CSharpEditor.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\nunit.framework.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\CSharpEditor.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\x86\Release\nunit.framework.xml
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\obj\x86\Release\CSharpEditorTest.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\obj\x86\Release\CSharpEditorTest.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\obj\x86\Release\CSharpEditorTest.pdb

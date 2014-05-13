@@ -1,0 +1,10 @@
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\bin\Release\CSharpEditor.exe.config
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\bin\Release\CSharpEditor.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\bin\Release\CSharpEditor.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\obj\x86\Release\CSharpEditor.CSharpEditorForm.resources
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\obj\x86\Release\CSharpEditor.Properties.Resources.resources
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\obj\x86\Release\CSharpEditor.csproj.GenerateResource.Cache
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\obj\x86\Release\CSharpEditor.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\obj\x86\Release\CSharpEditor.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditor\obj\x86\Release\CSharpEditor.csprojResolveAssemblyReference.cache

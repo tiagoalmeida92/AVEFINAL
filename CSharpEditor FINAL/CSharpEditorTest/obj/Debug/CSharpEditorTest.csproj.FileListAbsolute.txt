@@ -1,0 +1,10 @@
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\obj\Debug\CSharpEditorTest.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\CSharpEditorTest.exe.config
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\CSharpEditorTest.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\CSharpEditorTest.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\nunit.framework.dll
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\nunit.framework.xml
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\obj\Debug\CSharpEditorTest.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\obj\Debug\CSharpEditorTest.pdb
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\CSharpEditor.exe
+C:\Users\T\Desktop\FinalAve\CSharpEditor\CSharpEditorTest\bin\Debug\CSharpEditor.pdb

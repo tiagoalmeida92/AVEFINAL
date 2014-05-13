@@ -1,0 +1,115 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEditor", "CSharpEditor\CSharpEditor.csproj", "{C868D91A-F409-4B91-B419-99ABAE639DE4}"
+# Visual Studio 2010
+EndProject
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEditorTest", "CSharpEditorTest\CSharpEditorTest.csproj", "{F237D12D-15AA-4F36-888B-05F861E9FDE9}"
+# Visual Studio 2010
+EndProject
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrospectorLib", "IntrospectorLib\IntrospectorLib.csproj", "{46679D5D-AA65-4423-8403-5CCA65911CC5}"
+# Visual Studio 2010
+EndProject
+# Visual Studio 2010
+Global
+# Visual Studio 2010
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+# Visual Studio 2010
+		Debug|Any CPU = Debug|Any CPU
+# Visual Studio 2010
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+# Visual Studio 2010
+		Debug|x86 = Debug|x86
+# Visual Studio 2010
+		Release|Any CPU = Release|Any CPU
+# Visual Studio 2010
+		Release|Mixed Platforms = Release|Mixed Platforms
+# Visual Studio 2010
+		Release|x86 = Release|x86
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|Any CPU.ActiveCfg = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|Any CPU.Build.0 = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|Any CPU.Deploy.0 = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|Mixed Platforms.Build.0 = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|x86.ActiveCfg = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Debug|x86.Build.0 = Debug|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Release|Any CPU.ActiveCfg = Release|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Release|Mixed Platforms.ActiveCfg = Release|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Release|Mixed Platforms.Build.0 = Release|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Release|x86.ActiveCfg = Release|x86
+# Visual Studio 2010
+		{C868D91A-F409-4B91-B419-99ABAE639DE4}.Release|x86.Build.0 = Release|x86
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Debug|x86.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Debug|x86.Build.0 = Debug|Any CPU
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Release|Mixed Platforms.ActiveCfg = Release|x86
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Release|Mixed Platforms.Build.0 = Release|x86
+# Visual Studio 2010
+		{F237D12D-15AA-4F36-888B-05F861E9FDE9}.Release|x86.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Debug|x86.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+# Visual Studio 2010
+		{46679D5D-AA65-4423-8403-5CCA65911CC5}.Release|x86.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+	GlobalSection(SolutionProperties) = preSolution
+# Visual Studio 2010
+		HideSolutionNode = FALSE
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+	GlobalSection(Performance) = preSolution
+# Visual Studio 2010
+		HasPerformanceSessions = true
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+EndGlobal

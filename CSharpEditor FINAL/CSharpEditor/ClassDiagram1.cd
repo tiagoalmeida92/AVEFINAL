@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CSharpEditor.CSharpEditorModel">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACkMAAAAgEACAAAAASAAAIAAAAACAQAAAAAAAAQEI=</HashCode>
+      <FileName>CSharpEditorModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpEditor.CSharpSourceFile" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAGAAIAAAAgAEAAAAAAAABAAAAAAAAAg=</HashCode>
+      <FileName>CSharpSourceFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharpEditor.CSharpEditorForm">
+    <Position X="3" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CBMIBAkAQCAkAEiQAFCQgAIqAAoAQR0IACABAEBIBAE=</HashCode>
+      <FileName>Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntrospectorLib.Introspector">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <Members>
+      <Method Name="Introspector" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
